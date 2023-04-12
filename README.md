@@ -6,4 +6,5 @@ This repository is for test purpose
 ## Save and exit the file
 ## git add <file name>
 ## git commit -m "<Commit message>"
-
+## git status
+## git push
