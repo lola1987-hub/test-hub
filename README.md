@@ -8,3 +8,8 @@ This repository is for test purpose
 #### git commit -m "<Commit message>"
 #### git status
 #### git push
+For setting user.name and user.email:
+#### git config --global user.name "Your Name"
+#### git config --global user.email "your Email.com"
+To see details about username nd useremail
+#### git config --l or --list
