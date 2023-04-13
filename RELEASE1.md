@@ -1,0 +1,2 @@
+When I created new file it shows untracked. And I checked what does it mean.
+##### In Visual Studio Code, an untracked file refers to a file that has been created or modified in a repository, but it has not been added to the version control system. This means that the file is not being tracked by Git, which is a popular version control system used by developers to manage changes to their code.
