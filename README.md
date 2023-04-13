@@ -15,7 +15,7 @@ To see details about username nd useremail
 #### git config --l or --list
 Switching remote URLs from HTTPS to SSH:
 #### git remote set-url origin git@github.com/USERNAME/REPOSIORY.git
-Why we swith url from HTTPS to SSH
+Why we switch url from HTTPS to SSH
 1. Authentication
 2. Speed
 3. Access
