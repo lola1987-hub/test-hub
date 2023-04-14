@@ -4,3 +4,4 @@ I love cats, but I don't have cat pet.
 *Smooshy
 *Soft
 *White
+*goofy
