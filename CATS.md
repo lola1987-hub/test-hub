@@ -7,3 +7,4 @@ I love cats, but I don't have cat pet.
 *goofy
 *big fat cat
 *Big wet cat
+*Tiny
